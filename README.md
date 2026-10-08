@@ -216,4 +216,4 @@ WinISO is provided as a full free version with **all features and updates includ
 Don't miss out! **Download WinISO today** and start managing your CD and DVD images with ease.
 
 ---
-**Last updated:** 2026-10-07 22:38:38 UTC
+**Last updated:** 2026-10-08 02:27:50 UTC
